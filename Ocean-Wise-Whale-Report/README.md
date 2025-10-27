@@ -62,7 +62,7 @@ A modal triggered by clicking on a map marker, sighting widget, or id (depending
 
 #### Sighting Submission Flow
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
     <div>
         <img src="./assets/oceanwise-sighting-1.png" alt="Sighting Flow, Page 1" width="400">
     </div>
