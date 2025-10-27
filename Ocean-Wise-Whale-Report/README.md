@@ -62,32 +62,8 @@ A modal triggered by clicking on a map marker, sighting widget, or id (depending
 
 #### Sighting Submission Flow
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-    <div>
-        <img src="./assets/oceanwise-sighting-1.png" alt="Sighting Flow, Page 1" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-2.png" alt="Sighting Flow, Page 2" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-3.png" alt="Sighting Flow, Page 3" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-4.png" alt="Sighting Flow, Page 4" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-5.png" alt="Sighting Flow, Page 5" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-6.png" alt="Sighting Flow, Page 6" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-7.png" alt="Sighting Flow, Page 7" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-8.png" alt="Sighting Flow, Page 8" width="400">
-    </div>
-    <div>
-        <img src="./assets/oceanwise-sighting-9.png" alt="Sighting Flow, Page 9" width="400">
-    </div>
-</div>
+<img src="./assets/oceanwise-sighting-1.png" alt="Sighting Flow, Page 1" width="300"> <img src="./assets/oceanwise-sighting-2.png" alt="Sighting Flow, Page 2" width="300"> <img src="./assets/oceanwise-sighting-3.png" alt="Sighting Flow, Page 3" width="300">
+
+<img src="./assets/oceanwise-sighting-4.png" alt="Sighting Flow, Page 4" width="300"> <img src="./assets/oceanwise-sighting-5.png" alt="Sighting Flow, Page 5" width="300"> <img src="./assets/oceanwise-sighting-6.png" alt="Sighting Flow, Page 6" width="300">
+
+<img src="./assets/oceanwise-sighting-7.png" alt="Sighting Flow, Page 7" width="300"> <img src="./assets/oceanwise-sighting-8.png" alt="Sighting Flow, Page 8" width="300"> <img src="./assets/oceanwise-sighting-9.png" alt="Sighting Flow, Page 9" width="300">
