@@ -16,16 +16,16 @@ Next.js 15, TypeScript, Turbopack, SCSS/Sass (modules), Auth0, IronSession, Redu
 
 #### Map View (Mobile):
 
-![Map View (Mobile)](./assets/oceanwise-map-mobile.png)
+<img src="./assets/oceanwise-map-mobile.png" alt="Map View (Mobile)" width="400">
 
 #### Map View (Desktop):
 
-![Map View (Desktop)](./assets/oceanwise-map-desktop.png)
+<img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="800">
 
 ### Sightings View (Tablet):
 
-![Sightings View (Tablet)](./assets/oceanwise-sightings-tablet.png)
+<img src="./assets/oceanwise-sightings-tablet.png" alt="Sightings View (Tablet)" width="600">
 
 ### Sightings View (Desktop):
 
-![Sightings View (Desktop)](./assets/oceanwise-sightings-desktop.png)
+<img src="./assets/oceanwise-sightings-desktop.png" alt="Sightings View (Desktop)" width="800">
