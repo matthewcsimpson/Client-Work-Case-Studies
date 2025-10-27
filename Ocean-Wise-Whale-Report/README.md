@@ -24,13 +24,13 @@ The main mobile view of the app, displaying whale sightings both individual and 
 
 The main desktop view of the app, displaying whale sightings both individual and clusterd.
 
-<img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="400">
+<img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="800">
 
 #### Map View with Marine Mammal Regulation Zones (Desktop)
 
 The main view of the app, with [Marine Mammal Regulation](https://en.wikipedia.org/wiki/Marine_Mammal_Regulations) view enabled.
 
-<img src="./assets/oceanwise-map-mmr-desktop" alt="Map View (Desktop)" width="800">
+<img src="./assets/oceanwise-map-mmr-desktop.png" alt="Map View (Desktop)" width="800">
 
 #### Sightings View (Tablet):
 
@@ -52,10 +52,10 @@ The table view of sightings.
 
 An overlay triggered by mousing over a sighting marker on the map.
 
-<img src="./assets/oceanwise-sighting-details-overlay.png" alt="Sighting Details Overlay" width="500">
+<img src="./assets/oceanwise-sighting-details-overlay.png" alt="Sighting Details Overlay" width="400">
 
 #### Sighting Detail Modal
 
 A modal triggered by clicking on a map marker, sighting widget, or id (depending on the view). This modal is also used to display alert information.
 
-<img src="./assets/oceanwise-sighting-details-modal.png" alt="Sighting Details Modal" width="500">
+<img src="./assets/oceanwise-sighting-details-modal.png" alt="Sighting Details Modal" width="400">
