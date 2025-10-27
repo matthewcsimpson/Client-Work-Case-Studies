@@ -10,13 +10,13 @@ The system is designed using a responsive, mobile-first approach. Through this p
 
 ### Tech Stack
 
-Next.js 15, TypeScript, Turbopack, SCSS/Sass (modules), Auth0, IronSession, Redux Toolkit, RTK Query, Axios, Google Maps, Google Tag Manager, i18n (English & French), Contentful, SalesForce, Azure, Jest, PlayWright, Sentry, Marker.io, notistack, Azure Notification Hub,
+Next.js 15, TypeScript, Turbopack, SCSS/Sass (modules), Auth0, IronSession, Redux Toolkit, RTK Query, Axios, Google Maps, Google Tag Manager, i18n (English & French), Contentful, SalesForce, Azure, Jest, PlayWright, Sentry, Marker.io, notistack, Azure Notification Hub, and more.
 
 ### Screenshots
 
 #### Map View (Mobile):
 
-The main mobile view of the app, displaying whale sightings both individual and clustered.
+The main mobile view of the app, displaying whale sightings both individual and clustered. Users are authenticated using Auth0 and user data is drawn from the bespoke NestJS back end.
 
 <img src="./assets/oceanwise-map-mobile.png" alt="Map View (Mobile)" width="400">
 
@@ -59,3 +59,13 @@ An overlay triggered by mousing over a sighting marker on the map.
 A modal triggered by clicking on a map marker, sighting widget, or id (depending on the view). This modal is also used to display alert information.
 
 <img src="./assets/oceanwise-sighting-details-modal.png" alt="Sighting Details Modal" width="400">
+
+#### Sighting Submission
+
+A grid showing the sighting submission form across different devices and states.
+
+<div style="display: flex">
+    <div>
+        <img src="" alt="" width="400">
+    </div>
+</div>
