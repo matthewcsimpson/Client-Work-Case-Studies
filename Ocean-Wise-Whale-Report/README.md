@@ -14,4 +14,18 @@ Next.js 15, TypeScript, Turbopack, SCSS/Sass (modules), Auth0, IronSession, Redu
 
 ### Screenshots
 
-![Map View (Desktop)](./assets/oceanwise-map.png)
+#### Map View (Mobile):
+
+![Map View (Mobile)](./assets/oceanwise-map-mobile.png)
+
+#### Map View (Desktop):
+
+![Map View (Desktop)](./assets/oceanwise-map-desktop.png)
+
+### Sightings View (Tablet):
+
+![Sightings View (Tablet)](./assets/oceanwise-sightings-tablet.png)
+
+### Sightings View (Desktop):
+
+![Sightings View (Desktop)](./assets/oceanwise-sightings-desktop.png)
