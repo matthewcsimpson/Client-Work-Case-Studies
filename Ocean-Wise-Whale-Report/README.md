@@ -66,6 +66,6 @@ A grid showing the sighting submission form across different devices and states.
 
 <div style="display: flex">
     <div>
-        <img src="" alt="" width="400">
+        <img src="./assets/oceanwise-sighting-1.png" alt="Sighting Flow, Page 1" width="400">
     </div>
 </div>
