@@ -16,16 +16,46 @@ Next.js 15, TypeScript, Turbopack, SCSS/Sass (modules), Auth0, IronSession, Redu
 
 #### Map View (Mobile):
 
+The main mobile view of the app, displaying whale sightings both individual and clustered.
+
 <img src="./assets/oceanwise-map-mobile.png" alt="Map View (Mobile)" width="400">
 
 #### Map View (Desktop):
 
-<img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="800">
+The main desktop view of the app, displaying whale sightings both individual and clusterd.
 
-### Sightings View (Tablet):
+<img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="400">
+
+#### Map View with Marine Mammal Regulation Zones (Desktop)
+
+The main view of the app, with [Marine Mammal Regulation](https://en.wikipedia.org/wiki/Marine_Mammal_Regulations) view enabled.
+
+<img src="./assets/oceanwise-map-mmr-desktop" alt="Map View (Desktop)" width="800">
+
+#### Sightings View (Tablet):
+
+A display of indiviudal sightings with a detail map and information.
 
 <img src="./assets/oceanwise-sightings-tablet.png" alt="Sightings View (Tablet)" width="600">
 
-### Sightings View (Desktop):
+#### Sightings View (Desktop):
 
 <img src="./assets/oceanwise-sightings-desktop.png" alt="Sightings View (Desktop)" width="800">
+
+#### Sightings Table View
+
+The table view of sightings.
+
+<img src="./assets/oceanwise-sightings-grid-desktop.png" alt="Sightings Table View (Desktop)" width="800">
+
+#### Sighting Detail Overlay
+
+An overlay triggered by mousing over a sighting marker on the map.
+
+<img src="./assets/oceanwise-sighting-details-overlay.png" alt="Sighting Details Overlay" width="500">
+
+#### Sighting Detail Modal
+
+A modal triggered by clicking on a map marker, sighting widget, or id (depending on the view). This modal is also used to display alert information.
+
+<img src="./assets/oceanwise-sighting-details-modal.png" alt="Sighting Details Modal" width="500">
