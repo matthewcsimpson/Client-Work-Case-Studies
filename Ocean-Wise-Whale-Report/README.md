@@ -1,8 +1,8 @@
 ## Ocean Wise Whale Report Alert System
 
-Ocean Wise is a major conservation non-profit that has multiple programs in place to help protect the worlds oceans and the life that lives within them. The Whale Report Alert System (WRAS) is a program designed to alert mariners to the presence of whales in shipping lanes with the end goal of reducing whale strikes, of which there are as many as 20,000 every year. The sytem accepts data from automated systems as well as from users on the water.
+Ocean Wise is a major conservation non-profit that has multiple programs in place to help protect the world's oceans and the life that lives within them. The Whale Report Alert System (WRAS) is a program designed to alert mariners to the presence of whales in shipping lanes with the end goal of reducing whale strikes, of which there are as many as 20,000 every year. The system accepts data from automated systems as well as from users on the water.
 
-Ocean Wise contracted [Skyrocket Digital](https://skyrocketdigital.com){:target="\_blank"} to upgrade their legacy system to a new, modern, multiplatform system and in 2024 I became the primary contributor on for the web front end, which is integrated into app.ocean.org (<https://app.ocean.org>{:target="\_blank"}), the web platform we also modernized for them.
+Ocean Wise contracted [Skyrocket Digital](https://skyrocketdigital.com) to upgrade their legacy system to a new, modern, multiplatform system and in 2024 I became the primary contributor for the web front end, which is integrated into app.ocean.org (<https://app.ocean.org>), the web platform we also modernized for them.
 
 The system displays whale sighting data from several sources as well as accepts whale sightings from both everyday users and mariners. Users get different UI options depending on what user type they are, the former receiving time-delayed updates and the latter receiving updates in real time.
 
@@ -22,9 +22,9 @@ We solved this by dividing and conquering the work, with myself taking on the bu
 
 The Whale Report Alert System now has over 800 users who have submitted an average of 30,000 reports per month in the first three months of availability.
 
-### Post-Lauch
+### Post-Launch
 
-We continue to iterate on the platform, adding aesthetic and performance refinements. These include accessability updates across the site, improvements to the UI and performance of loading and filtering sightings and alerts, improving location precision, and improving reliability of push notifications and browser based notifications.
+We continue to iterate on the platform, adding aesthetic and performance refinements. These include accessibility updates across the site, improvements to the UI and performance of loading and filtering sightings and alerts, improving location precision, and improving reliability of push notifications and browser based notifications.
 
 ### Screenshots
 
@@ -36,7 +36,7 @@ The main mobile view of the app, displaying whale sightings both individual and 
 
 #### Map View (Desktop):
 
-The main desktop view of the app, displaying whale sightings both individual and clusterd.
+The main desktop view of the app, displaying whale sightings both individual and clustered.
 
 <img src="./assets/oceanwise-map-desktop.png" alt="Map View (Desktop)" width="800">
 
@@ -48,7 +48,7 @@ The main view of the app, with [Marine Mammal Regulation](https://en.wikipedia.o
 
 #### Sightings View (Tablet):
 
-A display of indiviudal sightings with a detail map and information.
+A display of individual sightings with a detail map and information.
 
 <img src="./assets/oceanwise-sightings-tablet.png" alt="Sightings View (Tablet)" width="600">
 
@@ -70,7 +70,7 @@ Sighting details can be seen via both a map overlay (triggered by mousing over a
 
 #### Sighting Submission Flow
 
-This is the flow through which a user may report a whale sighting, either in real time or historically. The flow includes support for location and direction via Google Maps, ecoptypes (if available) and other date, all of which is sent to the back end using RTK Query.
+This is the flow through which a user may report a whale sighting, either in real time or historically. The flow includes support for location and direction via Google Maps, ecotypes (if available) and other data, all of which is sent to the back end using RTK Query.
 
 <img src="./assets/oceanwise-sighting-1.png" alt="Sighting Flow, Page 1" width="300"> <img src="./assets/oceanwise-sighting-2.png" alt="Sighting Flow, Page 2" width="300"> <img src="./assets/oceanwise-sighting-3.png" alt="Sighting Flow, Page 3" width="300">
 
