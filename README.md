@@ -10,8 +10,8 @@ A real time system which everyday users and mariners alike can use to report and
 
 ![Whale Report Alert System](./Ocean-Wise-Whale-Report//assets//oceanwise-map-mmr-desktop.png)
 
-### [Code4rena](./Code4rena/)
+### [Code4rena Platform](./Code4rena-Platform/)
 
 Code4rena (C4) is a competitive audit and bounty platform where security researchers (referred to as Wardens) review, audit, and analyze codebases for security vulnerabilities in exchange for bounties provided by sponsoring projects. I worked on the platform during my time with Stack Five.
 
-![Code4rena](./Code4rena/assets/code4rena-home.png)
+![Code4rena](./Code4rena-Platform/assets/code4rena-home.png)
