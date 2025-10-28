@@ -1,4 +1,4 @@
-## Ocean Wise Whale Report Alert System
+## Ocean Wise: Whale Report Alert System
 
 Ocean Wise is a major conservation non-profit that has multiple programs in place to help protect the world's oceans and the life that lives within them. The Whale Report Alert System (WRAS) is a program designed to alert mariners to the presence of whales in shipping lanes with the end goal of reducing whale strikes, of which there are as many as 20,000 every year. The system accepts data from automated systems as well as from users on the water.
 
