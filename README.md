@@ -1,4 +1,4 @@
-# Client-Work-Case-Studies
+# Client Work Case Studies
 
 This is a repository with some information about client work I have performend, intended to be a companion to my portfolio.
 
