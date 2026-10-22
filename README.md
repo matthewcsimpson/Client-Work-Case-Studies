@@ -4,6 +4,22 @@ This is a repository with some information about client work I have performend, 
 
 ## Projects
 
+### [Dasvandh Network](./Dasvandh-Network/)
+
+A rebuild of the online Sikh giving platform that connects donors with verified Sikh organizations, projects, and fundraisers, replacing a legacy server-rendered site with a modern, mobile-first front end. I was the lead front end developer during my time with Skyrocket Digital.
+
+_Worked on from Spring 2026 to present._
+
+![Dasvandh Network](./Dasvandh-Network/assets/home.png)
+
+### [Ocean Wise: Whale Health](./Ocean-Wise-Whale-Health/)
+
+A research platform that uses computer vision to detect whales in drone imagery and measure their health, letting researchers review, correct, and verify landmark placements and metrics such as body area index and pregnancy before exporting them for analysis. I was the sole front end developer during my time with Skyrocket Digital.
+
+_Worked on from Fall 2025 to Summer 2026._
+
+![Whale Health](./Ocean-Wise-Whale-Health/assets/record-bai.png)
+
 ### [Ocean Wise: Whale Report Administration](./Ocean-Wise-Whale-Report-Admin/)
 
 An administration application for the Whale Reporting system, allowing Ocean Wise administrators to view, modify (if required), and validate whale sightings.
